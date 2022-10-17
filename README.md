@@ -126,7 +126,7 @@ share my way of thinking.
 
 If you're interested in that sort of thing or the rest of my story or
 simply want to support me in grattitude for open-source projects or
-whatever, please consider donating to my Patreon or Co-Fi.
+whatever, please consider donating to my Patreon or Ko-Fi.
 
 I have also been thinking of streaming live-coding sessions on YouTube
 or Twitch, so if you're interested please consider donating.
