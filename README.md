@@ -4,6 +4,28 @@ I heard some time that [Hemmingway](https://quoteinvestigator.com/2016/09/21/wri
 
 Well, **thread carefully** because this very page hasn't been edited _for sure_!
 
+## Before being a programmer
+
+I remember that since I was 7 or 8 years old I was already a builder. I started with LEGO bricks, fortunate enough to have
+those. My father seemed to know exactly how to shape my mind to be a
+creator (rather than a destructor).
+
+I grew up with action movies, I also watched romance with my mom and
+sister which were and still are my great teachers. I wish my father
+was here for me to tell him how grateful I am.
+
+But I digress. I remember watching "Judge Dredd" with Silvester Stallone and I loved that he had a gun that he could talk to and the gun would transform in whatever he needed.
+
+I had several imaginary friends, 5 to be exact. We were like power
+rangers, defeating evil. With LEGO I rarely followed the instructions
+to assemble whatever was the target idea, instead I just mixed all
+types of bricks and invented my own things. Imagination always ran
+wild.
+
+I have a vivid memory of working so hard to assemble a gun that resembled that of Stallone's character in the [movie](https://youtu.be/7GV_7q8EFmg).
+
+
+
 ## My history as a computer programmer
 
 I am a brazilian software engineer. I started coding around age 12 at
