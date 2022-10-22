@@ -19,10 +19,25 @@ But I digress. I remember watching "Judge Dredd" with Silvester Stallone and I l
 I had several imaginary friends, 5 to be exact. We were like power
 rangers, defeating evil. With LEGO I rarely followed the instructions
 to assemble whatever was the target idea, instead I just mixed all
-types of bricks and invented my own things. Imagination always ran
+types of bricks and invented my own things. My imagination always ran
 wild.
 
-I have a vivid memory of working so hard to assemble a gun that resembled that of Stallone's character in the [movie](https://youtu.be/7GV_7q8EFmg).
+Probably because of the weirdly well-balanced combination of growing up with a lot of fear and a lot of love simultaneously.
+My father was a very judgemental guy as far as I remember, and I feared him a lot. But he was also very generous and kind. And very loving.
+
+I wish I had had the chance to thank him because by disliking the act
+of him judging others (especially being a black judging black people,
+but also judging gay people and overall judging everyone) I ended up
+feeling judged and judging others too. One day I rebelled against my
+father and judged HIM, gave him a peice of my mind. That was the first
+time I saw him cry.
+
+Fast-forward to 2013-2014 I said things that might have culminated in him dying. I am afraid of judging others and instead I judge myself pretty hard.
+
+
+I have a vivid memory of working so hard to assemble a gun that
+resembled that of Stallone's character in the
+[movie](https://youtu.be/7GV_7q8EFmg).
 
 
 
