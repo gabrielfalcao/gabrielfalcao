@@ -40,6 +40,8 @@ resembled that of Stallone's character in the
 [movie](https://youtu.be/7GV_7q8EFmg).
 
 
+My father always taught me to be as honest as possible and the consequences of not following his rules were pretty dire.
+
 
 ## My history as a computer programmer
 
