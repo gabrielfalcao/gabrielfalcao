@@ -74,19 +74,25 @@ learned from my hard work.
 ## Main Projects
 
 
-...TK
+### General Projects
+
+
+- [Makefile-python-basic](https://github.com/gabrielfalcao/Makefile-python-basic) - Makefile-based Python project maintenance
+- [go-horse](https://github.com/gabrielfalcao/go-horse) - A stupidly simple HTTP server implemented in C, using Macros as a DSL. Also it has a memory leak I never cared to solve because all I wanted to accomplish was test the libmicrohttpd
+
 
 ### 🐍 Python Projects
 
 - [sure](https://github.com/gabrielfalcao/sure)
 - [HTTPretty](https://github.com/gabrielfalcao/HTTpretty)
 - [uiclasses](https://github.com/gabrielfalcao/uiclasses)
+- [xmpp](https://github.com/gabrielfalcao/xmpp) - XMPP protocol implemented in pure python
 - [berlin-bike-watch](https://github.com/gabrielfalcao/berlin-bike-watch)
 
 ### 🦀 Rust Projects
 
 - [marseille](https://github.com/gabrielfalcao/marseille)
-
+- [mac-disk-monitor](https://github.com/gabrielfalcao/mac-disk-monitor)
 
 ### ☕️ ECMAScript (et cetera) Projects
 
