@@ -1,134 +1,96 @@
 # Hi! I'm Gabriel Falcão
 
-I heard some time that [Hemmingway](https://quoteinvestigator.com/2016/09/21/write-drunk/) said "Write drunk, edit sober" or something like that.
+## Who am I
 
-Well, **thread carefully** because this very page hasn't been edited _for sure_!
+I am a human-being seeking a life of human-flourishing. Fallible, but self-determined to get up and learn from life's setbacks.
+A coder/decoder of reason and meaning made of flesh. I care about the well-being of others and have a hard time taking care of myself.
 
-## My history as a computer programmer
+Writing code is and has been my primary means of self-expression and I
+prefer to act constructively rather than destructively.  I wish to
+live in a world where we are all kind to each other and respect our
+differences. But I also recognize the pervasiveness of paradoxes and
+the phractal misunderstanding that the very concept of understanding a
+concept is precluded by one's ability to realize that a non-conceptual
+understanding of reality is not the end of the road but rather the
+road itself.
 
-I am a brazilian software engineer. I started coding around age 12 at
-a moment in time where I did not have a videogame. Instead I had a
-black-and-white monitor and which I my dad and I used for setting up
-new machines that we assembled from scratch. I was 9 when I started
-working with computers to help my family make a some extra money.
+I believe that pursuing knowledge and galvanizing my intuitions with
+layers upon layers of understanding is something worth doing. That
+ignorance can be bliss, but leads us to become mere zombies following
+blind instructions and that is a dangerous thing to do because it
+dissolves our consciousness and kindness.
 
-Anyhoo, I did not have a videogame and no real graphics card so I was
-pretty bored when I instinctively started digging around the features
-of the operating system I had in hands: Windows 9... something or
-perhaps was Windows ME. I really don't remember for sure.
+We are all struggling to live, eat, thrive, prevent sickness and
+attain health and dignity. Why make the world worse by acting
+absolutely poorly with others?
 
-What I sort of remember is that because I could not see colors I
-started building stuff. I'm a creative person, a very sensitive human
-that had the privilege of growing up with a lot of love rather than a
-lot of money.
+There is at least one paradox there, but let me take this digression as an excuse to continue at a later time.
 
-I feel like mind is wildly curious, dare I say indomitable (Though I
-[don't have a lot of confidence](https://pyvideo.org/djangocon-us-2010/djangocon-2010--lightning-talks---day-1.html) of my english or at least people have
-doubted my abilities in the past but at the current times I am
-certainly recognized or so it seams).
 
-But I digress (again, sorry) - what I mean to say is that I always
-loved learning and I grew up with a great sense of love and justice
-which I definitely have taken for granted sometimes but the very act
-of writing this is one that attempts to serve as a reminder for myself
-that LOVE is the greatest thing and I shall never forget to cherrish
-it again.
+## What I do
 
-Using my monochromatic monitor I was left with few options of how to
-play with my computer so I got curious about the software in which
-most people rarely found interest in: Microsoft Access 97 (Now that I
-think about it, I was probably using windows 95 or 98. I guess.)
+Well, lately I've been trying to live while being bombarded by chaos and
+acts of ignorance, thrived thanks to acts of kindness and genuine
+compassion, at times even by nameless strangers whose empathy can be
+felt even from a distance (relative or absolute).
 
-I liked to play with paintbrush when I had a colored monitor, making
-random scratches then cutting, copying, pasting, flipping horizontally
-or vertically and/or rotating it in an intuitive attempts to create visually appealing
-and geometrically sound figures. (I seem to be attracted to multi-dimensionality)
+I have spent the last 20 years or so writing FOSS(Free Open-Source
+Software) that primarily solved my own problems and then fearlessly
+publishing their source on Github and other routes of distribution.
 
-But I always wondered what was beneath the surface of the user-interface. More precisely little 9 year old mind wondered: "How programs are made?"
+There are tools, libraries and frameworks I have developed used
+pervasively by individuals, businesses, institutions and
+governments. And I have never charged for anything, primarily because
+I rather spend time producing meaningful code and ultimately because,
+in the past I did not care to profit in monetarily terms.
 
-Instead of painting mere pictures I wanted to learn how to design
-software, as it were.  So while digging around the Microsoft Office 97
-suite, bored with a monochromatic monitor, I opened MS Access and
-found a little feature called "Forms" (in portuguese I think it was translated to Formulários).
+My tools focus on the topics that I am most reasonably passionate
+about, for instance:
 
-Anyway, the thing is that it presented me with a similar interface as
-that of MS Paint, except that instead of a brush, bucket of paint,
-pens, pencils, erasers or clipboard-specific tools like magic wands MS
-Access 97 gave me a window rather than a canvas - comparatively to MS
-Paint - and the tools were button, text boxes, radio boxes, check boxes and so on.
+* Automated Testing and Code Quality - because I care about delivering code with confidence and make [sure](https://github.com/gabrielfalcao/sure) that everything I make is as robust as possible. To that end, I have spend an inordinate amount of time making sure that bugs and problems are reproducible, testable and fixable.
+* Cryptography and information transcoding - because the puzzles involved feed my mind with an endless stream of challenges give me a feeling of intellectual reward, and because I am a cypherpunk of sorts. I created my first custom character mapping at age 9 to exchange messages with a best friend in school. In fact we had our own charmaps which we merely called alphabets at the time. We shared our alphabets with one another so that we could write messages that no one would understand. As nine-year-olds we obviously didn't have any big secrets, but encoding/decoding information was more fun than playing stupid games. Now that I think about it, we used coding to tell each other how the other boys were aggressive and dumb for wasting their time bullying us for being intelligent.
+* Implementation of Protocols - because protocols are fascinating. I wrote my first TCP client/server in VisualBasic 6 when I was probably 13 or 14 years old. I wanted the client to tell the server to execute an arbitrary program at their side, so before knowing what a protocol was I built one out of intuition, it was simple something like `program:<EXECUTABLE>` where `<EXECUTABLE>` was the path to any `.exe` file. I had to build *parser* and did not even know that word. The program worked, and later when I learned the words `protocol` and `parsing` I felt an immense awe. The kind of awe one discovers when there is a word to describe a concept one's spent too much time trying to articulate in too many words. (something I still seem to do, as you can probably notice).
+* Text Manipulation: encoding/decoding, transcription and compression
+* File-System tools: compression/decompression, path normalization, backup and information extraction.
+* HTTP Frameworks: I have implemented HTTP in so many levels, first I built frameworks just for the sake of learning the protocol's internals by heart. Eventually I wanted to solve the problem of testing external API's without internet access and implemented a fake `socket` module for python, so my mind heared [HTTPretty](https://github.com/gabrielfalcao/HTTpretty).
+* API Clients - from API-specific to Generic RESTful clients
 
-Once I dragged-and-dropped a button, say, on the empty window canvas
-and double-clicked it, a new interface would appear overimposed with
-code that clearly referenced whatever UI element had been drawn.
+## How I do
 
-My mind was blown - good job Microsoft for blowing my mind at 12 years old.
+My main editor is EMACS. Emacs is effectively an extension of my body
+because its learning curve was so steep that demanded hours upon hours
+of not giving up but now I can code incredibly fast.
 
-But I was sort of stunned because I didn't know what to write, it's as
-if as a child I was already wrestling with a blank page, except that
-it begged to write code beneath the canvas.
+I do not use Github Copilot frankly because using VS Code or any other
+editor feels awkward.
 
-The coolest thing is that there was a feature called "Form Wizard"
-where it presented sort of templates - cookie cutter style I suppose -
-where it guided me through visually attaching actions to UI elements.
+Also at this point I have 183 public open-source repositories on
+Github and I would feel cheated to see Copilot generating code that it
+learned from my hard work.
 
-As a 9 year old my job was to teach adults how to use a computer. I
-could feel how older people felt intimidated by the technology but I
-was always rather inspired by it. So I told them something along the
-lines of: Let me show you the basics - here is how you make a business
-card, or a banner or a gift card. Here is how you paint, wanna play
-solitarie? Here you go. Lots of people seemed to like landmines, I
-always thought it was super boring. But hey, who was I to judge?! I
-was just a boy. (In my mind I still feel like one).
 
-The adults I was teaching seemed to take notes, I thought it was weird
-because it was so intuitive to me - little did I know that I had
-several hours of deliberate practice (though I didn't know this
-concept at the time)
+## Main Projects
 
-So when Microsoft Access provided me with a simple way to attach
-actions to UI elements I felt the thought coming: "Eureka! Instead of
-guiding people through the operating system UI I created a my own UI
-with lots of buttons, grouped by kinds or sorts of categories such as
-"games" or "entertainment" or "utilities".
 
-I made sure to help people find their way with as little trouble as
-possible - which in retrospect I think was an act of compassion.
+...TK
 
-When I double-clicked the generated buttons that executed other
-programs it would show me the code that was generated.
+### 🐍 Python Projects
 
-If memory serves, I think that the code was a sort of dialect of
-Visual Basic 5 or 6 - based in english, obviously. So in a way I
-learned english backwards, because I would read code and try to make
-sense of it. I was pretty bored at school because trying to decypher
-generated code gave me an intense feeling of reward - one could dare
-to call it dopamine dispensing.
+- [sure](https://github.com/gabrielfalcao/sure)
+- [HTTPretty](https://github.com/gabrielfalcao/HTTpretty)
+- [uiclasses](https://github.com/gabrielfalcao/uiclasses)
+- [berlin-bike-watch](https://github.com/gabrielfalcao/berlin-bike-watch)
 
-I would spend several hours looking at the code and trying to make
-sense of it, I remember that at the beginning I spent several days
-trying to make sense of the code generated by a single button.
+### 🦀 Rust Projects
 
-Because I learned backwards and having no access to books - especially
-not in portuguese - I didn't know the concept of a variable, but
-instinct told me I needed to store value somewhere, so I would draw
-text boxes on the UI, set their "visible" property to "false" and in
-the code I would store text in those hidden boxes.
+- [marseille](https://github.com/gabrielfalcao/marseille)
 
-Eventually I learned that it was counter-intuitive and that I could
-simply declare a "variable" which was much more efficient and
-generally better because variables could be typed and so instead of
-just strings I could play with numbers though I have no real
-mathematical skills (I was day-dreaming of coding during classes)
 
-I intend to try and run Visual Basic 6 in Windows ME within a virtual
-machine and record a screencast to go down memory lane in an effort to
-share my way of thinking.
+### ☕️ ECMAScript (et cetera) Projects
 
-If you're interested in that sort of thing or the rest of my story or
-simply want to support me in grattitude for open-source projects or
-whatever, please consider donating to my Patreon or Ko-Fi.
+- [emerald](https://www.npmjs.com/package/emerald) (*in memoriam*)
 
-I have also been thinking of streaming live-coding sessions on YouTube
-or Twitch, so if you're interested please consider donating.
 
-See you later, Aligator!
+### ♟️ Go Projects
+
+- [gspec](https://github.com/gabrielfalcao/gspec) (*old experiment*)
