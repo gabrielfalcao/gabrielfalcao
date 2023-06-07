@@ -1,6 +1,6 @@
 # Hi! I'm Gabriel Falcão
 
-![Лкфышм.jpg](Лкфышм.jpg)
+![berlin.jpg](berlin.jpg)
 
 ## Who am I
 
@@ -75,7 +75,6 @@ learned from my hard work.
 
 
 ### General Projects
-
 
 - [Makefile-python-basic](https://github.com/gabrielfalcao/Makefile-python-basic) - Makefile-based Python project maintenance
 - [go-horse](https://github.com/gabrielfalcao/go-horse) - A stupidly simple HTTP server implemented in C, using Macros as a DSL. Also it has a memory leak I never cared to solve because all I wanted to accomplish was test the libmicrohttpd
