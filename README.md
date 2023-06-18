@@ -1,5 +1,81 @@
 # Hi! I'm Gabriel Falcão
 
+![Stack Overflow](https://img.shields.io/badge/stackoverflow-orange?style=default&logo=stackoverflow&logoColor=orange&label=gabrielfalcao&labelColor=black&color=orange&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F460989%2Fgabriel-falc%25c3%25a3o)
+![Twitter Follow](https://img.shields.io/twitter/follow/gabrielfalcao)
+![GitHub User's stars](https://img.shields.io/github/stars/gabrielfalcao)
+
+
+<!-- ### Stats -->
+
+<!-- ###### Python Package Downloads -->
+
+<!-- ![steadymark](https://img.shields.io/pypi/dm/steadymark) -->
+<!-- ![HTTpretty](https://img.shields.io/pypi/dm/HTTpretty) -->
+<!-- ![agentzero](https://img.shields.io/pypi/dm/agentzero) -->
+<!-- ![agile](https://img.shields.io/pypi/dm/agile) -->
+<!-- ![bolacha](https://img.shields.io/pypi/dm/bolacha) -->
+<!-- ![carbontube](https://img.shields.io/pypi/dm/carbontube) -->
+<!-- ![carpentry-ci](https://img.shields.io/pypi/dm/carpentry-ci) -->
+<!-- ![chemist](https://img.shields.io/pypi/dm/chemist) -->
+<!-- ![coalminer](https://img.shields.io/pypi/dm/coalminer) -->
+<!-- ![couleur](https://img.shields.io/pypi/dm/couleur) -->
+<!-- ![dead-parrot](https://img.shields.io/pypi/dm/dead-parrot) -->
+<!-- ![dominic](https://img.shields.io/pypi/dm/dominic) -->
+<!-- ![floresta](https://img.shields.io/pypi/dm/floresta) -->
+<!-- ![gitgraph](https://img.shields.io/pypi/dm/gitgraph) -->
+<!-- ![grammarian](https://img.shields.io/pypi/dm/grammarian) -->
+<!-- ![httpretty](https://img.shields.io/pypi/dm/httpretty) -->
+<!-- ![jaci](https://img.shields.io/pypi/dm/jaci) -->
+<!-- ![jobminer](https://img.shields.io/pypi/dm/jobminer) -->
+<!-- ![keybone](https://img.shields.io/pypi/dm/keybone) -->
+<!-- ![lettuce](https://img.shields.io/pypi/dm/lettuce) -->
+<!-- ![lineup](https://img.shields.io/pypi/dm/lineup) -->
+<!-- ![markment](https://img.shields.io/pypi/dm/markment) -->
+<!-- ![mercator](https://img.shields.io/pypi/dm/mercator) -->
+<!-- ![milieu](https://img.shields.io/pypi/dm/milieu) -->
+<!-- ![minions](https://img.shields.io/pypi/dm/minions) -->
+<!-- ![plant](https://img.shields.io/pypi/dm/plant) -->
+<!-- ![plural](https://img.shields.io/pypi/dm/plural) -->
+<!-- ![privacy](https://img.shields.io/pypi/dm/privacy) -->
+<!-- ![repocket](https://img.shields.io/pypi/dm/repocket) -->
+<!-- ![shrine](https://img.shields.io/pypi/dm/shrine) -->
+<!-- ![speakers](https://img.shields.io/pypi/dm/speakers) -->
+<!-- ![sphinx-bulma-theme](https://img.shields.io/pypi/dm/sphinx-bulma-theme) -->
+<!-- ![star-maker](https://img.shields.io/pypi/dm/star-maker) -->
+<!-- ![sure](https://img.shields.io/pypi/dm/sure) -->
+<!-- ![truck](https://img.shields.io/pypi/dm/truck) -->
+<!-- ![tumbler](https://img.shields.io/pypi/dm/tumbler) -->
+<!-- ![uiclasses](https://img.shields.io/pypi/dm/uiclasses) -->
+<!-- ![unclebob](https://img.shields.io/pypi/dm/unclebob) -->
+<!-- ![vargas](https://img.shields.io/pypi/dm/vargas) -->
+<!-- <\!-- ![cello](https://img.shields.io/pypi/dm/cello) -\-> -->
+<!-- <\!-- ![plany](https://img.shields.io/pypi/dm/plany) -\-> -->
+<!-- <\!-- ![sinsky](https://img.shields.io/pypi/dm/sinsky) -\-> -->
+<!-- <\!-- ![xmpp](https://img.shields.io/pypi/dm/xmpp) -\-> -->
+
+<!-- ###### Docker Image Pulls -->
+
+<!-- ![node-google-chrome](https://img.shields.io/docker/pulls/gabrielfalcao/node-google-chrome) -->
+<!-- ![drone-ci-butler](https://img.shields.io/docker/pulls/gabrielfalcao/drone-ci-butler) -->
+<!-- ![nst-fakenom](https://img.shields.io/docker/pulls/gabrielfalcao/nst-fakenom) -->
+<!-- ![k8s-file-server](https://img.shields.io/docker/pulls/gabrielfalcao/k8s-file-server) -->
+<!-- ![file-server-base](https://img.shields.io/docker/pulls/gabrielfalcao/file-server-base) -->
+<!-- ![jaci](https://img.shields.io/docker/pulls/gabrielfalcao/jaci) -->
+<!-- ![jaci-web](https://img.shields.io/docker/pulls/gabrielfalcao/jaci-web) -->
+<!-- ![tumbler](https://img.shields.io/docker/pulls/gabrielfalcao/tumbler) -->
+<!-- ![dynamodb](https://img.shields.io/docker/pulls/gabrielfalcao/dynamodb) -->
+<!-- ![dynamodb-local](https://img.shields.io/docker/pulls/gabrielfalcao/dynamodb-local) -->
+<!-- ![python-db-testing](https://img.shields.io/docker/pulls/gabrielfalcao/python-db-testing) -->
+<!-- ![restund](https://img.shields.io/docker/pulls/gabrielfalcao/restund) -->
+<!-- ![prosody](https://img.shields.io/docker/pulls/gabrielfalcao/prosody) -->
+<!-- ![radlab](https://img.shields.io/docker/pulls/gabrielfalcao/radlab) -->
+<!-- ![alpine37-python3-node9111](https://img.shields.io/docker/pulls/gabrielfalcao/alpine37-python3-node9111) -->
+<!-- ![shortage](https://img.shields.io/docker/pulls/gabrielfalcao/shortage) -->
+<!-- ![cognodes-react](https://img.shields.io/docker/pulls/gabrielfalcao/cognodes-react) -->
+
+--------------------------------
+
+
 ![berlin.jpg](berlin.jpg)
 
 ## Who am I
